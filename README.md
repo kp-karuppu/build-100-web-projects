@@ -52,24 +52,7 @@ Projects in this repository span multiple domains:
 
 ## 📂 Repository Structure
 
-Each project is organized in its own folder:
-
-100-web-projects/
-│
-├── 01-navbar-design/
-├── 02-buttons-hover-effects/
-├── 03-gradient-background/
-├── 04-card-layout/
-├── 05-background-video/
-│
-├── 20-mouse-tracker/
-├── 30-calculator/
-│
-├── 60-weather-app/
-├── 80-expense-tracker/
-├── 100-final-project/
-│
-└── README.md
+Each project is organized in its own folder
 
 Each project typically contains:
 * assets (folder)
